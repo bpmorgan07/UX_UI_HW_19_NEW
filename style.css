@@ -325,6 +325,8 @@ nav .fa-solid{
   display:none;
 }
 
+
+
 @media only screen and (max-width: 600px){
   #header{
     background-image: url(./Images/IMG_5533.JPG);
