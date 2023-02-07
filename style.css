@@ -105,7 +105,7 @@ nav ul li a:hover::after{
 }
 .tab-links{
   margin-right: 50px;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 500;
   cursor: pointer;
   position:relative;
@@ -115,7 +115,7 @@ nav ul li a:hover::after{
   content: '';
   width: 0;
   height: 3px;
-  background: #484F40;
+  background: #CEB531;
   position: absolute;
   left: 0;
   bottom: -8px;
@@ -129,7 +129,7 @@ nav ul li a:hover::after{
   margin: 10px 0;
 }
 .tab-contents ul li span{
-  color: #484F40;
+  color: #CEB531;
   font-size: 14px;
 }
 .tab-contents{
